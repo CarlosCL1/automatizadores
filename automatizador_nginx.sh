@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+#Esto ahora está actualizado en github
 
 
 if ! command -v toilet &> /dev/null;then
